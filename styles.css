@@ -107,6 +107,8 @@ ul {
 .img-2 {
     width: 140px;
     height: 140px;
+    border: 3px solid #3882f6;
+    border-radius: 15px;
 }
 
 .text {
@@ -129,6 +131,8 @@ ul {
 
 .thor {
     font-weight: 900;
+    padding-left: 275px;
+
 }
 
 /* figuring out the quote */
@@ -181,5 +185,3 @@ ul {
     text-align: center;
     padding: 30px;
 }
-
-
